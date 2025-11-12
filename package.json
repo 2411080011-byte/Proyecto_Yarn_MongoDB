@@ -1,7 +1,14 @@
 {
-  "name": "WebYarn",
+  "name": "web_yarn",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Jesus Arotinco",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongodb": "^7.0.0",
+    "mongoose": "^8.19.0"
+  }
 }
