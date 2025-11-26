@@ -4,7 +4,7 @@ const DB_HOST = "undc.64psrwl.mongodb.net/?appName=undc"; // 🔹 sin "mongodb+s
 
 const API_VERSION = "v1";
 const IP_SERVER = "localhost";
-const JWT_SECRET_KEY = "your_secret_key";
+const JWT_SECRET_KEY = "gR7cH9Svfj8JLe4c186Ghs48hheb3902nh5DsA";
 
 module.exports = {
     DB_USER,
